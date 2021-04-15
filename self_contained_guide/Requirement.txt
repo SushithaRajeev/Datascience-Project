@@ -1,0 +1,12 @@
+ 
+Pip install jupyter notebook
+Pip install ktrain
+Pip install datetime
+Pip install pandas
+Pip install numpy
+Pip install filetype
+Pip install maplotlib
+Pip install keras
+Pip install nltk
+Pip install re
+Pip install pickle
